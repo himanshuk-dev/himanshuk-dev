@@ -1,7 +1,15 @@
-### Hi there! I'm Himanshu Kumar 👋
+### Hi there! 👋
 
 
 ![Himanshu Kumar profile banner](https://user-images.githubusercontent.com/87880250/176330078-a5fb22a8-a7a7-4a3e-be37-323b2bb1a49a.jpg)
+
+
+- 🔭 I’m currently working on building JavaScript projects.
+- 🌱 I’m currently learning React.
+- 👯 I’m looking to collaborate on Web Development projects.
+- 🤔 I’m looking for help with getting my First job as Front End Developer
+- 📫 Reach me on my portfolio page.
+- ⚡ Fun fact: I love to cook and create my own recipes on my Food blog: [SizzlingDiaries](https://sizzlingdiaries.com/)
 
 ---
 
