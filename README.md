@@ -5,7 +5,7 @@
 
 
 - 🔭 I’m currently working on building JavaScript projects.
-- 🌱 I’m currently learning React.
+- 🌱 I’m currently learning Full-Stack development.
 - 👯 I’m looking to collaborate on Web Development projects.
 - 🤔 I’m looking for help with getting my First job as Front End Developer
 - 📫 Reach me on my portfolio page.
