@@ -7,7 +7,7 @@
 - 🔭 I’m currently working on building JavaScript projects.
 - 🌱 I’m currently learning Full-Stack development.
 - 👯 I’m looking to collaborate on Web Development projects.
-- 🤔 I’m looking for help with getting my First job as Web Developer
+- 🤔 I’m looking for help with getting my First job as Software Engineer
 - 📫 Reach me on my portfolio page.
 - ⚡ Fun fact: I love to cook and create my own recipes on my Food blog: [SizzlingDiaries](https://sizzlingdiaries.com/)
 
