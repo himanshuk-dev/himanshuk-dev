@@ -1,7 +1,7 @@
 ### Hi there! 👋
 
+<img width="1685" alt="Himanshu-Kumar-Portfolio-banner" src="https://user-images.githubusercontent.com/87880250/210894322-069b8c98-6f34-4d4d-9f84-ad40308a6492.png">
 
-![Himanshu Kumar profile banner](https://user-images.githubusercontent.com/87880250/176330078-a5fb22a8-a7a7-4a3e-be37-323b2bb1a49a.jpg)
 
 
 - 🔭 I’m currently working on building JavaScript projects.
