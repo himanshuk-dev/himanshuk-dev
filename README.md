@@ -5,7 +5,7 @@
 
 
 - 🔭 I’m currently working on building JavaScript projects.
-- 🌱 I’m currently learning Full-Stack development.
+- 🌱 I’m currently learning Full-Stack development > 🔥Data Structures and Algorithms🔥
 - 👯 I’m looking to collaborate on Web Development projects.
 - 🤔 I’m looking for help with getting my First job as Software Engineer
 - 📫 Reach me on my portfolio page.
