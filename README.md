@@ -6,10 +6,10 @@
 
 - 🔭 I’m currently working on building JavaScript projects.
 - 🌱 I’m currently learning Full-Stack development > 🔥Data Structures and Algorithms🔥
-- 👯 I’m looking to collaborate on Web Development projects.
+- 👯 I’m looking to collaborate on Web Development projects
 - 🤔 I’m looking for help with getting my First job as Software Engineer
-- 📫 Reach me on my portfolio page.
-- ⚡ Fun fact: I love to cook and create my own recipes on my Food blog: [SizzlingDiaries](https://sizzlingdiaries.com/)
+- 📫 Reach me on my [portfolio](https://coderhimanshu.com/)
+- ⚡ Fun fact: I love to cook and create my own recipes on my Food blog: [SizzlingDiaries.com](https://sizzlingdiaries.com/)
 
 ---
 
