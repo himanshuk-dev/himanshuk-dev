@@ -26,7 +26,7 @@
 ---
 
 
-![Himanshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=himanshukumar30&theme=dark&show_icons=true)
+![Himanshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=coderhimanshu1&theme=dark&show_icons=true)
 
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=himanshukumar30&layout=compact)](https://github.com/himanshukumar30/github-readme-stats) -->
