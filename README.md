@@ -15,7 +15,7 @@
 
 <p align="center">
   <a href="https://gist.github.com/coderhimanshu1/0f07b3cf78f57954e8a615dea1a94d29">
-    <img src="https://gist.github.com/coderhimanshu1/0f07b3cf78f57954e8a615dea1a94d29#file-guestbook-gi)" alt="Click here to sign my guestbook!">
+    <img src="https://gist.github.com/coderhimanshu1/0f07b3cf78f57954e8a615dea1a94d29#file-guestbook-gif)" alt="Click here to sign my guestbook!">
   </a>
 </p>
 
