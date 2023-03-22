@@ -26,7 +26,7 @@
 ---
 
 
-![Himanshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=coderhimanshu1&theme=dark&show_icons=true)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=coderhimanshu1&theme=dark&border_radius=50)](https://git.io/streak-stats)
 
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=himanshukumar30&layout=compact)](https://github.com/himanshukumar30/github-readme-stats) -->
