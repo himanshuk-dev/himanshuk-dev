@@ -32,7 +32,7 @@
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=himanshukumar30&layout=compact)](https://github.com/himanshukumar30/github-readme-stats) -->
 
 <!--
-**Himanshukumar30/Himanshukumar30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**CoderHimanshu1/CoderHimanshu1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
