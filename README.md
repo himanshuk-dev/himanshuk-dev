@@ -26,7 +26,7 @@
 ---
 
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=coderhimanshu1&theme=dark&border_radius=50)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=coderhimanshu1&mode=weekly)](https://git.io/streak-stats)
 
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=himanshukumar30&layout=compact)](https://github.com/himanshukumar30/github-readme-stats) -->
