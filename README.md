@@ -4,7 +4,7 @@
 
 
 
-- 🔭 I’m currently working on building JavaScript projects.
+- 🔭 I’m currently working on building REMPLR app - Full stack web app for nutritionists to serve their clients to build meal plans, grocery list and more...
 - 🌱 I’m currently learning Full-Stack development > 🔥Data Structures and Algorithms🔥
 - 👯 I’m looking to collaborate on Web Development projects
 - 🤔 I’m looking for help with getting my First job as Software Engineer
