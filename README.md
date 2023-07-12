@@ -4,10 +4,10 @@
 
 
 
-- 🔭 I’m currently refactoring REMPLR app to use React, Node.js - Full stack web app for nutritionists to serve their clients to build meal plans, grocery list and more...
-- 🌱 I’m currently learning Full-Stack development > 🔥Data Structures and Algorithms🔥
+- 🔭 I’m currently refactoring the REMPLR app to use React, Node.js - Full stack web app for nutritionists to serve their clients to build meal plans, grocery list and more...
+- 🌱 I’m currently learning Full-Stack development > 🔥React.js🔥
 - 👯 I’m looking to collaborate on Web Development projects
-- 🤔 I’m looking for help with getting my First job as Software Engineer
+- 🤔 I’m looking for help with getting my first job as Software Engineer
 - 📫 Reach me on my [portfolio](https://coderhimanshu.com/)
 - ⚡ Fun fact: I love to cook and create my own recipes on my Food blog: [SizzlingDiaries.com](https://sizzlingdiaries.com/)
 
