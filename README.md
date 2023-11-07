@@ -4,7 +4,7 @@
 
 
 
-- 🔭 I won the Hackathon organized by Springboard where I presented my original idea on an AI-powered platform aiming to boost empathy and emotional intelligence in a remote workplace environment
+- 🔭 I recently won the Hackathon organized by Springboard where I presented my original idea on an AI-powered platform aiming to boost empathy and emotional intelligence in a remote workplace environment
 - 🌱 I’m currently learning System designs
 - 👯 I’m looking to collaborate on Web Development projects
 - 🤔 I’m looking for help with getting my first job as a Software Engineer
