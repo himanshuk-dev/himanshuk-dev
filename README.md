@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning System designs
 - 👯 I’m looking to collaborate on Web Development projects
 - 🤔 I’m looking for help with getting my first job as a Software Engineer
-- 📫 Reach me on my [portfolio](https://coderhimanshu.com/)
+- 📫 Reach me on my [portfolio](https://himanshu.dev/)
 - ⚡ Fun fact: I love to cook and create my own recipes on my Food blog: [SizzlingDiaries.com](https://sizzlingdiaries.com/)
 
 ---
