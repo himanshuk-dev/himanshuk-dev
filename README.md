@@ -14,8 +14,8 @@
 ---
 
 <p align="center">
-  <a href="https://gist.github.com/coderhimanshu1/0f07b3cf78f57954e8a615dea1a94d29">
-    <img src="https://gist.githubusercontent.com/coderhimanshu1/0f07b3cf78f57954e8a615dea1a94d29/raw/1c79f8a2f799b7670462b22ac078955732d10a9f/guestbook.gif" alt="Click here to sign my guestbook!">
+  <a href="https://gist.github.com/himanshuk-dev/0f07b3cf78f57954e8a615dea1a94d29">
+    <img src="https://gist.githubusercontent.com/himanshuk-dev/0f07b3cf78f57954e8a615dea1a94d29/raw/1c79f8a2f799b7670462b22ac078955732d10a9f/guestbook.gif" alt="Click here to sign my guestbook!">
   </a>
 </p>
 
@@ -26,13 +26,13 @@
 ---
 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=coderhimanshu1&mode=weekly)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=himanshuk-dev&mode=weekly)](https://git.io/streak-stats)
 
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=himanshukumar30&layout=compact)](https://github.com/himanshukumar30/github-readme-stats) -->
 
 <!--
-**CoderHimanshu1/CoderHimanshu1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**himanshuk-dev/himanshuk-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
