@@ -3,11 +3,10 @@
 <img width="1685" alt="Himanshu-Kumar-Portfolio-banner" src="https://user-images.githubusercontent.com/87880250/210894322-069b8c98-6f34-4d4d-9f84-ad40308a6492.png">
 
 
-
-- 🔭 I recently won the Hackathon organized by Springboard where I presented my original idea on an AI-powered platform aiming to boost empathy and emotional intelligence in a remote workplace environment
+- ⛳️ I have spent over 2 years on Frontend and spent a year on Full stack development with Software Engineering certification from Springboard.
+- 🎉 I got my first work as a Software Engineer where I'm working on Next.js, Sanity, and Shopify to build beautiful Frontend and make an impact on eCommerce.
 - 🌱 I’m currently learning System designs
 - 👯 I’m looking to collaborate on Web Development projects
-- 🤔 I’m looking for help with getting my first job as a Software Engineer
 - 📫 Reach me on my [portfolio](https://himanshu.dev/)
 - ⚡ Fun fact: I love to cook and create my own recipes on my Food blog: [SizzlingDiaries.com](https://sizzlingdiaries.com/)
 
