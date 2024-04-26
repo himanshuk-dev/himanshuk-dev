@@ -4,7 +4,7 @@
 
 
 - ⛳️ I have spent over 2 years on Frontend and spent a year on Full stack development with Software Engineering certification from Springboard.
-- 🎉 I got my first work as a Software Engineer where I'm working on Next.js, Sanity, and Shopify to build beautiful Frontend and make an impact on eCommerce.
+- 🎉 I got my first work as a Full Stack Software Engineer.
 - 🌱 I’m currently learning System designs
 - 👯 I’m looking to collaborate on Web Development projects
 - 📫 Reach me on my [portfolio](https://himanshu.dev/)
