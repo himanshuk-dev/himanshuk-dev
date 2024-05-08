@@ -2,8 +2,8 @@
 
 <img width="1685" alt="Himanshu-Kumar-Portfolio-banner" src="https://user-images.githubusercontent.com/87880250/210894322-069b8c98-6f34-4d4d-9f84-ad40308a6492.png">
 
-
-- ⛳️ I have spent over 2 years on Frontend and spent a year on Full stack development with Software Engineering certification from Springboard.
+- 👋 I'm a Full Stack Engineer based in Vancouver who enjoys building beautiful software with a user-centric approach.
+- ⛳️ I have spent 3 years on Frontend and 1+ year working on Full-stack development. 
 - 🎉 I got my first work as a Full Stack Software Engineer.
 - 🌱 I’m currently learning System designs
 - 👯 I’m looking to collaborate on Web Development projects
