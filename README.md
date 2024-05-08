@@ -1,6 +1,6 @@
 ### Hi there! 👋
 
-<img width="1685" alt="Himanshu-Kumar-Portfolio-banner" src="https://user-images.githubusercontent.com/87880250/210894322-069b8c98-6f34-4d4d-9f84-ad40308a6492.png">
+![Himanshu Kumar banner](https://github.com/himanshuk-dev/himanshuk-dev/assets/87880250/33409b9b-e126-49cb-b54b-1abf5b8795d9)
 
 - 👋 I'm a Full Stack Engineer based in Vancouver who enjoys building beautiful software with a user-centric approach.
 - ⛳️ I have spent 3 years on Frontend and 1+ year working on Full-stack development. 
