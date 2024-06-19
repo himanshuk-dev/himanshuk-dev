@@ -3,8 +3,8 @@
 ![Himanshu Kumar banner](https://github.com/himanshuk-dev/himanshuk-dev/assets/87880250/33409b9b-e126-49cb-b54b-1abf5b8795d9)
 
 - 👋 I'm a Full Stack Engineer based in Vancouver who enjoys building beautiful software with a user-centric approach.
-- ⛳️ I have spent 3 years on Frontend and 1+ year working on Full-stack development. 
-- 🎉 I got my first work as a Full Stack Software Engineer.
+- ⛳️ I have spent 3 years on Frontend and 2 years working on Full-stack development. 
+- 🎉 Leading Product development for [Craftmycard](https://craftmycard.com/).
 - 🌱 I’m currently learning System designs
 - 👯 I’m looking to collaborate on Web Development projects
 - 📫 Reach me on my [portfolio](https://himanshu.dev/)
