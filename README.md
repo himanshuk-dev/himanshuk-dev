@@ -1,6 +1,7 @@
 ### Hi there! 👋
 
-![Himanshu Linkedin Banner (5)](https://github.com/himanshuk-dev/himanshuk-dev/assets/87880250/23cae7c6-169d-420f-a0c3-3b5475ffd456)
+![Himanshu Kumar profile banner](https://github.com/user-attachments/assets/257e859c-3016-4beb-ac31-a2798a1521d2)
+
 
 
 - 👋 I'm a Full Stack Engineer based in Vancouver who enjoys building beautiful software with a user-centric approach.
