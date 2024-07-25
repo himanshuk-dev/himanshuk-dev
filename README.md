@@ -1,6 +1,7 @@
 ### Hi there! 👋
-![Himanshu Linkedin Banner new (1)](https://github.com/user-attachments/assets/7177d2a4-bdf3-41e9-9abc-7aba13824820)
 
+
+![Himanshu Linkedin Banner new (2)](https://github.com/user-attachments/assets/6bc50dc8-21f3-415d-ba11-a90e94b22f75)
 
 
 
