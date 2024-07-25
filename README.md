@@ -6,7 +6,7 @@
 
 
 
-- 👋 I'm a Full Stack Engineer based in Vancouver who enjoys building beautiful software with a user-centric approach.
+- 👋 I'm a Front-end/Full Stack Engineer based in Vancouver who enjoys building beautiful software with a user-centric approach.
 - ⛳️ I have spent 3 years on Frontend and 2 years working on Full-stack development. 
 - 🎉 Leading Product development for [Craftmycard](https://craftmycard.com/).
 - 🌱 I’m currently learning System designs
