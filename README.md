@@ -8,7 +8,7 @@
 
 - 👋 I'm a Front-end/Full Stack Engineer based in Vancouver who enjoys building beautiful software with a user-centric approach.
 - ⛳️ I have spent over 3 years on Frontend and 2 years working on Full-stack development. 
-- 🎉 Launched [BeyondSnack](https://beyondsnack.ca/).
+- 🎉 Launched [Beyond Snack](https://beyondsnack.ca/).
 - 🌱 I’m currently learning System designs
 - 👯 I’m looking to collaborate on Web Development projects
 - 📫 Reach me on my [portfolio](https://himanshu.dev/)
